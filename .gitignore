@@ -1,0 +1,25 @@
+# Ignore system and user-specific files
+**/AppData/
+**/Documents/
+**/Downloads/
+**/OneDrive/
+**/Pictures/
+**/Videos/
+**/Saved Games/
+**/Music/
+**/Favorites/
+**/Links/
+**/*.lnk
+**/*.json
+**/*.bak
+**/.bash_history
+**/.gitconfig
+**/.python_history
+**/.vscode/
+**/.docker/
+**/.tabby-client/
+**/NTUSER.DAT
+**/NTUSER.DAT{*}
+**/node.dat
+**/desktop.ini
+
